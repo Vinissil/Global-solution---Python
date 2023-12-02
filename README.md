@@ -1,4 +1,4 @@
-<h1>Globalsolution-Front-end-WebDevelopement</h1>
+<h1>Global solution - Python</h1>
 
 > Status: Developing ⚠️
 
